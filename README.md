@@ -1,1 +1,1 @@
-# flores_rodriguez_desarrollo_de_log
+# Proyecto de logs con programación para Diseñando Estrategias para la Recuperación y Mitigación de Bases de Datos**
