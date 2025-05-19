@@ -4,6 +4,6 @@ $rango = array(
     "192.168.1.0/24", //PERMITE TODOS LOS HOS DE LA RED 192.168.1.*
     "10.0.0.*", //PERMITE TODOS LOS HOST DE LA RED 10.0.0.x
     "172.16.10.1-172.16.10.50", //PERMITE EL RANGO DE IP ESPECÍFICO
-    "*.*.*.*"
+    //"*.*.*.*"
 );
 ?>
